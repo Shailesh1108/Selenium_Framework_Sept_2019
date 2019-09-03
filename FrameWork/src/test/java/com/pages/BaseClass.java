@@ -44,7 +44,7 @@ public class BaseClass
 		report.attachReporter(extent);
 		
 		Reporter.log(" Befoer Suite Done ", true);
-		//delete below line
+		//below file is deleted
 		
 	}
 	
